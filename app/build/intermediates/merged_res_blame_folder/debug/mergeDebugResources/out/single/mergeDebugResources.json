@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/layout_fragment_home.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/xml_backup_rules.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/layout_item_weather.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/layout/item_weather.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/drawable_settings.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/drawable/settings.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/drawable_sunny.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/drawable/sunny.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/navigation_nav_main.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/navigation/nav_main.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/drawable_edit.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/drawable/edit.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/layout_fragment_details.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/layout/fragment_details.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/layout_fragment_settings.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.desafiolatam.weatherlatam.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.desafiolatam.weatherlatam.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
